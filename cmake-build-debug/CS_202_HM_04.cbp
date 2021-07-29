@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CS_202_HM_04"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS_202_HM_04">
+				<Option output="/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/CS_202_HM_04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS_202_HM_04"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS_202_HM_04/fast">
+				<Option output="/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/CS_202_HM_04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/../../../../include/c++/11.1.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/11.1.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS_202_HM_04/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/coconatree/CLionProjects/CS_202_HM_04/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/coconatree/CLionProjects/CS_202_HM_04/Structures/AdjacencyList.cpp">
+			<Option target="CS_202_HM_04"/>
+		</Unit>
+		<Unit filename="/home/coconatree/CLionProjects/CS_202_HM_04/Structures/AdjacencyList.h">
+			<Option target="CS_202_HM_04"/>
+		</Unit>
+		<Unit filename="/home/coconatree/CLionProjects/CS_202_HM_04/Structures/HashTable.cpp">
+			<Option target="CS_202_HM_04"/>
+		</Unit>
+		<Unit filename="/home/coconatree/CLionProjects/CS_202_HM_04/Structures/HashTable.h">
+			<Option target="CS_202_HM_04"/>
+		</Unit>
+		<Unit filename="/home/coconatree/CLionProjects/CS_202_HM_04/Structures/LinkedList.cpp">
+			<Option target="CS_202_HM_04"/>
+		</Unit>
+		<Unit filename="/home/coconatree/CLionProjects/CS_202_HM_04/Structures/LinkedList.h">
+			<Option target="CS_202_HM_04"/>
+		</Unit>
+		<Unit filename="/home/coconatree/CLionProjects/CS_202_HM_04/main.cpp">
+			<Option target="CS_202_HM_04"/>
+		</Unit>
+		<Unit filename="/home/coconatree/CLionProjects/CS_202_HM_04/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/coconatree/CLionProjects/CS_202_HM_04/Structures/AdjacencyList.cpp
+AdjacencyList.h
+/home/coconatree/CLionProjects/CS_202_HM_04/Structures/AdjacencyList.h
+
+/home/coconatree/CLionProjects/CS_202_HM_04/Structures/AdjacencyList.h
+iostream
+-
+fstream
+-
+string
+-
+LinkedList.h
+/home/coconatree/CLionProjects/CS_202_HM_04/Structures/LinkedList.h
+
+/home/coconatree/CLionProjects/CS_202_HM_04/Structures/HashTable.h
+iostream
+-
+string
+-
+
+/home/coconatree/CLionProjects/CS_202_HM_04/Structures/LinkedList.h
+ostream
+-
+cstddef
+-
+
+/home/coconatree/CLionProjects/CS_202_HM_04/main.cpp
+Structures/LinkedList.h
+/home/coconatree/CLionProjects/CS_202_HM_04/Structures/LinkedList.h
+Structures/HashTable.h
+/home/coconatree/CLionProjects/CS_202_HM_04/Structures/HashTable.h
+Structures/AdjacencyList.h
+/home/coconatree/CLionProjects/CS_202_HM_04/Structures/AdjacencyList.h
+
